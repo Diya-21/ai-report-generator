@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+error.log
+test_output.docx
+ai_raw_output.txt
+.DS_Store
