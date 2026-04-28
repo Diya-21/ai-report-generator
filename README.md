@@ -1,3 +1,12 @@
+---
+title: AI Report Generator
+emoji: 🏢
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+---
+
 # AI-Powered DDR Report Generator
 
 An Applied AI project that automatically converts raw site inspection documents and thermal sensor reports into a structured, client-ready Detailed Diagnostic Report (DDR) in DOCX format.
