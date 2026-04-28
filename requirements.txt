@@ -1,8 +1,10 @@
 fastapi
 uvicorn
+gunicorn
 python-multipart
 PyMuPDF
 python-docx
 pydantic
 openai
 python-dotenv
+huggingface_hub
